@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://aman12:12345@devconnector.kohdy.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "4e3ae42a48b874112f94",
+  "githubSecret": "e0a8d9f219f75662847d473a4187f94e00d96ce3"
+}
